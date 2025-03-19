@@ -167,3 +167,5 @@ def read_market_sentiment():
 # Execute sentiment reading
 if __name__ == "__main__":
     print(read_market_sentiment())
+
+//add logic to switch between strategies
