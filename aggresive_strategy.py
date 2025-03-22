@@ -549,3 +549,4 @@ if __name__ == "__main__":
     main()
 
 //need to work on just bitcoin
+//avoid risky coins
